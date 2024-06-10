@@ -4,7 +4,7 @@
     - React.js
     - Vite
 - 👯 I’m looking to collaborate on:
-    - VR Project in Unity or Unreal Engine
+    - VR Projects in Unity or Unreal Engine
     - A VRChat project for unique gamemodes so I can learn the networking and manipulation of the interaction systems in VRChat.
         - Something like Halo Reach Firefight in VR
 - 💬 Ask me about:
