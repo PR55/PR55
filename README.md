@@ -15,9 +15,9 @@
 - ⚡ Fun fact:
     - Love VR Development
     - Experienced in game development
-        - Project Automica in 2023
-        - Spaceholder in 2024
-            - This game made it to a booth in Pax East of 2024 on the main show floor!
+        - Project Automica in 2022
+        - Spaceholder in 2023
+            - This game made it to a booth in Pax East of 2023 on the main show floor!
 
 <!--
 **PR55/PR55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
